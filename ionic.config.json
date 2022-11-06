@@ -1,0 +1,7 @@
+{
+  "name": "nvote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
